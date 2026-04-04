@@ -81,8 +81,7 @@ print(me.current_mission())
 
 | 🏫 Institution | 📚 Qualification | 📅 Year | 🎯 Score |
 |:---:|:---:|:---:|:---:|
-| **Lovely Professional University (LPU), Punjab** | B.Tech – Computer Science & Engineering | 2020 – 2024 | CGPA: 6.1/10 |
-| **B.S.S College, Supaul** | BSEB – Class XII | 2019 | 62.2% |
+| **Lovely Professional University (LPU), Punjab** | B.Tech – Computer Science & Engineering | 2020 – 2024 |
 
 </div>
 
@@ -135,6 +134,7 @@ print(me.current_mission())
 
 ---
 
+
 ## 🏗️ Featured Projects
 
 <div align="center">
@@ -143,56 +143,92 @@ print(me.current_mission())
 <tr>
 <td width="50%">
 
-### 🎵 Content-Based Music Recommender
-**Python · Machine Learning · NLP** &nbsp; `Mar 2024 – Apr 2024`
+### 💳 Real-Time Credit Card Fraud Detection
+**XGBoost · FastAPI · SHAP · SMOTE · Optuna** &nbsp; `Apr 2024`
 
-> An intelligent music recommendation system leveraging audio analysis and ML
+> Production-grade fraud detection pipeline with explainability & real-time inference
 
-- 🔊 Extracts audio features: **tempo, mood, instrumentation**
-- 🧬 Builds comprehensive **music content profiles**
-- ⚖️ Balances **user preferences + song content** for ideal recommendations
-- 📈 Uses advanced **signal processing techniques**
+- 🎯 Achieved **93% precision & 85% recall** on imbalanced transaction data
+- ⚖️ Solved class imbalance using **SMOTE** + precision-recall threshold tuning
+- ⚡ Built **low-latency FastAPI** inference service for real-time transaction scoring
+- 🔍 Integrated **SHAP explainability** for model interpretability
+- 🔧 Automated tuning with **Optuna** hyperparameter optimization
+- 🖥️ Lightweight **live prediction UI** for visualization
 
 </td>
 <td width="50%">
 
-### 🚂 Railway System Management
-**SQL · Database Design** &nbsp; `Dec 2023 – Jan 2024`
+### 🧾 Intelligent Expense Categorization System
+**NLP · XGBoost · Flask · TF-IDF · FinTech** &nbsp; `Mar 2024`
 
-> A full-featured railway database system with optimized data management
+> QuickBooks-style ML system for automated financial transaction classification
 
-- 🗂️ Designed **dynamic relational database schema**
-- 🔗 Engineered **interconnected tables** with foreign key relationships
-- ⚡ Optimized **data retrieval processes**
-- 🚉 Powered **passenger management & operations**
+- 🏦 Classifies **~7k financial transactions** into 6 categories
+- 📊 Achieved **71.3% accuracy (F1: 0.71)** with strong per-class performance (up to **0.75 F1**)
+- 🧠 Engineered **NLP (TF-IDF) + structured feature** multi-class XGBoost pipeline
+- 🚀 Deployed **scalable Flask API** with confidence scoring
+- 🔄 Built **human-in-the-loop feedback** system for continuous improvement
+- 🏭 Aligned with real **FinTech automation** standards
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧩 Sudoku Solver
-**C++ · Backtracking · DSA** &nbsp; `Nov 2023 – Jan 2024`
+### ⭐ Restaurant Rating Classification — Bi-LSTM
+**Bidirectional LSTM · NLP · Keras · Deep Learning** &nbsp; `Apr 2024`
 
-> An efficient Sudoku solver using recursive backtracking algorithm
+> Deep NLP system classifying 465k+ restaurant reviews into 5 rating classes
 
-- ♟️ Assigns numbers via **constraint-checking logic**
-- 🔄 Implements **recursive backtracking** for dead-end recovery
-- ✅ Validates **row, column & box** uniqueness
-- 🚫 Gracefully handles **unsolvable puzzles**
+- 🗃️ Custom **NLP pipeline** processing **~465k Swiggy/Zomato reviews** at scale
+- 🧠 Stacked **Bidirectional LSTM** with spatial dropout & L2 regularization
+- 🎯 Deep **semantic context** extraction for nuanced sentiment understanding
+- ⚖️ Resolved **class imbalance** via dynamic class weighting
+- 🛑 Applied **Early Stopping** for robust generalization
+- 📈 Accurate **5-class rating prediction** across diverse review styles
 
 </td>
 <td width="50%">
 
-### 🐍 Snake Game
-**C++ · Arrays · DSA** &nbsp; `Aug 2023 – Nov 2023`
+### 🚚 Porter Delivery Time Estimation
+**Random Forest · Feature Engineering · ML** &nbsp; `2024`
 
-> Classic Snake Game built with core DSA concepts
+> ML model to predict real-world logistics delivery times for Porter orders
 
-- 🎮 Real-time **directional movement system**
-- 🍎 Dynamic **food generation** at random intervals
-- 📏 Snake **grows on eating** food
-- 💥 **Collision detection** for game-over logic
+- 🌲 Built **Random Forest** regression model for delivery time prediction
+- 🔧 Applied extensive **feature engineering** on historical delivery data
+- 📉 Optimized using **Mean Absolute Error (MAE)** as primary metric
+- 🗺️ Processed real-world **logistics & route data** for accuracy
+- 📦 Improved **last-mile delivery estimation** for operational planning
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏙️ Smart City Route Optimization System
+**C++ · Dijkstra's Algorithm · Graph Theory** &nbsp; `2024`
+
+> Graph-based route optimizer modeling real-world city road networks
+
+- 🗺️ Designed **adjacency list graph** representation of city road networks
+- ⚡ Implemented **Dijkstra's Algorithm** with **priority queues** for efficient pathfinding
+- 🔗 Modeled road networks as **weighted graphs** for realistic simulation
+- 🚦 Computed **optimal shortest paths** between city locations
+- 📈 Improved **route planning efficiency** for smart city infrastructure
+
+</td>
+<td width="50%">
+
+### 🎵 Content-Based Music Recommender
+**Python · ML · NLP · Signal Processing** &nbsp; `Mar – Apr 2024`
+
+> Intelligent recommendation engine using audio content analysis
+
+- 🔊 Extracts **tempo, mood & instrumentation** from audio tracks
+- 🧬 Builds comprehensive **music content profiles** per track
+- ⚖️ Balances **user preferences + song content** for ideal recommendations
+- 📈 Leverages advanced **signal processing** techniques for feature extraction
 
 </td>
 </tr>
