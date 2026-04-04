@@ -81,7 +81,8 @@ print(me.current_mission())
 
 | 🏫 Institution | 📚 Qualification | 📅 Year | 🎯 Score |
 |:---:|:---:|:---:|:---:|
-| **Lovely Professional University (LPU), Punjab** | B.Tech – Computer Science & Engineering | 2020 – 2024 |
+| **Lovely Professional University (LPU), Punjab** | B.Tech – Computer Science & Engineering | 2020 – 2024 | CGPA: 6.1/10 |
+| **B.S.S College, Supaul** | BSEB – Class XII | 2019 | 62.2% |
 
 </div>
 
@@ -133,7 +134,6 @@ print(me.current_mission())
 </div>
 
 ---
-
 
 ## 🏗️ Featured Projects
 
