@@ -391,17 +391,25 @@ Stack       Python · Librosa · Scikit-Learn
 
 <div align="center">
 
-```
-Machine Learning & XGBoost   ████████████████████░░  90%
-Deep Learning (LSTM/CNN)     ███████████████████░░░  85%
-Natural Language Processing  ████████████████████░░  88%
-Python & Data Analysis       █████████████████████░  95%
-FastAPI / Flask Deployment   ████████████████░░░░░░  78%
-SQL & Database Design        ████████████████░░░░░░  75%
-Computer Vision (OpenCV)     ███████████████░░░░░░░  70%
-C++ & Algorithms (DSA)       ███████████████░░░░░░░  72%
-AWS & Cloud Deployment       █████████████░░░░░░░░░  62%
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=99999&color=6e40c9&center=true&vCenter=true&width=500&lines=Loading+skill+bars...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%E2%9C%94" alt="Loading" />
+
+<br/>
+
+<!-- Animated skill bars SVG -->
+<img src="https://raw.githubusercontent.com/kashyaputsav/kashyaputsav/main/skills.svg" alt="Skill Proficiency Animated Bars" width="860" />
+
+<br/><br/>
+
+<!-- Animated skill level badges -->
+![Python](https://img.shields.io/badge/Python-95%25-10b981?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![ML/XGBoost](https://img.shields.io/badge/ML%20%26%20XGBoost-90%25-00f5ff?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![NLP](https://img.shields.io/badge/NLP-88%25-00bcd4?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-85%25-c8b8ff?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117)
+![FastAPI/Flask](https://img.shields.io/badge/FastAPI%20%2F%20Flask-78%25-f59e0b?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
+![SQL/DB](https://img.shields.io/badge/SQL%20%26%20DB-75%25-3b82f6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
+![C++/DSA](https://img.shields.io/badge/C%2B%2B%20%26%20DSA-72%25-8b5cf6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-70%25-ec4899?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117)
+![AWS/Cloud](https://img.shields.io/badge/AWS%20%26%20Cloud-62%25-06b6d4?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117)
 
 </div>
 
