@@ -1,0 +1,190 @@
+<svg width="860" height="520" viewBox="0 0 860 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
+    </linearGradient>
+    <!-- Bar gradients per skill -->
+    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00f5ff" />
+      <stop offset="100%" style="stop-color:#6e40c9" />
+    </linearGradient>
+    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6e40c9" />
+      <stop offset="100%" style="stop-color:#c8b8ff" />
+    </linearGradient>
+    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00f5ff" />
+      <stop offset="100%" style="stop-color:#00bcd4" />
+    </linearGradient>
+    <linearGradient id="bar4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981" />
+      <stop offset="100%" style="stop-color:#00f5ff" />
+    </linearGradient>
+    <linearGradient id="bar5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b" />
+      <stop offset="100%" style="stop-color:#ef4444" />
+    </linearGradient>
+    <linearGradient id="bar6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6" />
+      <stop offset="100%" style="stop-color:#6e40c9" />
+    </linearGradient>
+    <linearGradient id="bar7" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ec4899" />
+      <stop offset="100%" style="stop-color:#f59e0b" />
+    </linearGradient>
+    <linearGradient id="bar8" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b5cf6" />
+      <stop offset="100%" style="stop-color:#ec4899" />
+    </linearGradient>
+    <linearGradient id="bar9" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06b6d4" />
+      <stop offset="100%" style="stop-color:#3b82f6" />
+    </linearGradient>
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Shimmer gradient -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
+      <stop offset="50%" style="stop-color:rgba(255,255,255,0.15);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="2 0" dur="2.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="clip1"><rect x="230" y="42" width="540" height="20" rx="10"/></clipPath>
+    <clipPath id="clip2"><rect x="230" y="98" width="540" height="20" rx="10"/></clipPath>
+    <clipPath id="clip3"><rect x="230" y="154" width="540" height="20" rx="10"/></clipPath>
+    <clipPath id="clip4"><rect x="230" y="210" width="540" height="20" rx="10"/></clipPath>
+    <clipPath id="clip5"><rect x="230" y="266" width="540" height="20" rx="10"/></clipPath>
+    <clipPath id="clip6"><rect x="230" y="322" width="540" height="20" rx="10"/></clipPath>
+    <clipPath id="clip7"><rect x="230" y="378" width="540" height="20" rx="10"/></clipPath>
+    <clipPath id="clip8"><rect x="230" y="434" width="540" height="20" rx="10"/></clipPath>
+    <clipPath id="clip9"><rect x="230" y="490" height="20" rx="10"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="520" rx="18" fill="url(#bgGrad)"/>
+
+  <!-- Border glow -->
+  <rect width="858" height="518" x="1" y="1" rx="17" fill="none" stroke="url(#bar1)" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Title -->
+  <text x="430" y="22" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#00f5ff" letter-spacing="4" filter="url(#glow)">⚡  SKILL  PROFICIENCY  ⚡</text>
+
+  <!-- ── ROW 1: Python & Data Analysis 95% ── -->
+  <text x="10" y="58" font-family="monospace" font-size="13" fill="#c8b8ff" font-weight="600">🐍 Python &amp; Data Analysis</text>
+  <!-- track -->
+  <rect x="230" y="42" width="540" height="20" rx="10" fill="#1a1a2e"/>
+  <!-- bar -->
+  <rect x="230" y="42" width="0" height="20" rx="10" fill="url(#bar4)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="513" dur="1.4s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <!-- shimmer -->
+  <rect x="230" y="42" width="513" height="20" rx="10" fill="url(#shimmer)" clip-path="url(#clip1)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.5s" fill="freeze"/>
+  </rect>
+  <text x="753" y="57" font-family="monospace" font-size="13" font-weight="700" fill="#10b981" filter="url(#glow)">95%</text>
+
+  <!-- ── ROW 2: Machine Learning 90% ── -->
+  <text x="10" y="114" font-family="monospace" font-size="13" fill="#c8b8ff" font-weight="600">🤖 Machine Learning &amp; XGBoost</text>
+  <rect x="230" y="98" width="540" height="20" rx="10" fill="#1a1a2e"/>
+  <rect x="230" y="98" width="0" height="20" rx="10" fill="url(#bar1)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="486" dur="1.4s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <rect x="230" y="98" width="486" height="20" rx="10" fill="url(#shimmer)" clip-path="url(#clip2)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.65s" fill="freeze"/>
+  </rect>
+  <text x="730" y="113" font-family="monospace" font-size="13" font-weight="700" fill="#00f5ff" filter="url(#glow)">90%</text>
+
+  <!-- ── ROW 3: NLP 88% ── -->
+  <text x="10" y="170" font-family="monospace" font-size="13" fill="#c8b8ff" font-weight="600">💬 Natural Language Processing</text>
+  <rect x="230" y="154" width="540" height="20" rx="10" fill="#1a1a2e"/>
+  <rect x="230" y="154" width="0" height="20" rx="10" fill="url(#bar3)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="475" dur="1.4s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <rect x="230" y="154" width="475" height="20" rx="10" fill="url(#shimmer)" clip-path="url(#clip3)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.8s" fill="freeze"/>
+  </rect>
+  <text x="718" y="169" font-family="monospace" font-size="13" font-weight="700" fill="#00bcd4" filter="url(#glow)">88%</text>
+
+  <!-- ── ROW 4: Deep Learning 85% ── -->
+  <text x="10" y="226" font-family="monospace" font-size="13" fill="#c8b8ff" font-weight="600">🧠 Deep Learning (LSTM/CNN)</text>
+  <rect x="230" y="210" width="540" height="20" rx="10" fill="#1a1a2e"/>
+  <rect x="230" y="210" width="0" height="20" rx="10" fill="url(#bar2)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="459" dur="1.4s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <rect x="230" y="210" width="459" height="20" rx="10" fill="url(#shimmer)" clip-path="url(#clip4)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.95s" fill="freeze"/>
+  </rect>
+  <text x="702" y="225" font-family="monospace" font-size="13" font-weight="700" fill="#c8b8ff" filter="url(#glow)">85%</text>
+
+  <!-- ── ROW 5: FastAPI/Flask 78% ── -->
+  <text x="10" y="282" font-family="monospace" font-size="13" fill="#c8b8ff" font-weight="600">⚡ FastAPI / Flask Deployment</text>
+  <rect x="230" y="266" width="540" height="20" rx="10" fill="#1a1a2e"/>
+  <rect x="230" y="266" width="0" height="20" rx="10" fill="url(#bar5)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="421" dur="1.4s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <rect x="230" y="266" width="421" height="20" rx="10" fill="url(#shimmer)" clip-path="url(#clip5)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.1s" fill="freeze"/>
+  </rect>
+  <text x="664" y="281" font-family="monospace" font-size="13" font-weight="700" fill="#f59e0b" filter="url(#glow)">78%</text>
+
+  <!-- ── ROW 6: SQL 75% ── -->
+  <text x="10" y="338" font-family="monospace" font-size="13" fill="#c8b8ff" font-weight="600">🗄️ SQL &amp; Database Design</text>
+  <rect x="230" y="322" width="540" height="20" rx="10" fill="#1a1a2e"/>
+  <rect x="230" y="322" width="0" height="20" rx="10" fill="url(#bar6)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="405" dur="1.4s" begin="0.85s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <rect x="230" y="322" width="405" height="20" rx="10" fill="url(#shimmer)" clip-path="url(#clip6)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.25s" fill="freeze"/>
+  </rect>
+  <text x="648" y="337" font-family="monospace" font-size="13" font-weight="700" fill="#3b82f6" filter="url(#glow)">75%</text>
+
+  <!-- ── ROW 7: C++ & DSA 72% ── -->
+  <text x="10" y="394" font-family="monospace" font-size="13" fill="#c8b8ff" font-weight="600">⚙️ C++ &amp; Algorithms (DSA)</text>
+  <rect x="230" y="378" width="540" height="20" rx="10" fill="#1a1a2e"/>
+  <rect x="230" y="378" width="0" height="20" rx="10" fill="url(#bar8)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="389" dur="1.4s" begin="1.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <rect x="230" y="378" width="389" height="20" rx="10" fill="url(#shimmer)" clip-path="url(#clip7)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.4s" fill="freeze"/>
+  </rect>
+  <text x="632" y="393" font-family="monospace" font-size="13" font-weight="700" fill="#8b5cf6" filter="url(#glow)">72%</text>
+
+  <!-- ── ROW 8: Computer Vision 70% ── -->
+  <text x="10" y="450" font-family="monospace" font-size="13" fill="#c8b8ff" font-weight="600">👁️ Computer Vision (OpenCV)</text>
+  <rect x="230" y="434" width="540" height="20" rx="10" fill="#1a1a2e"/>
+  <rect x="230" y="434" width="0" height="20" rx="10" fill="url(#bar7)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="378" dur="1.4s" begin="1.15s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <rect x="230" y="434" width="378" height="20" rx="10" fill="url(#shimmer)" clip-path="url(#clip8)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.55s" fill="freeze"/>
+  </rect>
+  <text x="621" y="449" font-family="monospace" font-size="13" font-weight="700" fill="#ec4899" filter="url(#glow)">70%</text>
+
+  <!-- ── ROW 9: AWS 62% ── -->
+  <text x="10" y="506" font-family="monospace" font-size="13" fill="#c8b8ff" font-weight="600">☁️ AWS &amp; Cloud Deployment</text>
+  <rect x="230" y="490" width="540" height="20" rx="10" fill="#1a1a2e"/>
+  <rect x="230" y="490" width="0" height="20" rx="10" fill="url(#bar9)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="335" dur="1.4s" begin="1.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="578" y="505" font-family="monospace" font-size="13" font-weight="700" fill="#06b6d4" filter="url(#glow)">62%</text>
+
+  <!-- Animated dots in corner -->
+  <circle cx="820" cy="18" r="4" fill="#00f5ff" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.1;0.8" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="835" cy="18" r="4" fill="#6e40c9" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="18" r="4" fill="#c8b8ff" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
