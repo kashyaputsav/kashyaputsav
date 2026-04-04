@@ -414,36 +414,6 @@ Stack       Python · Librosa · Scikit-Learn
 </div>
 
 <!-- ════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                              -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kashyaputsav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=6e40c9&text_color=c8b8ff&border_radius=12" />
-&nbsp;&nbsp;
-<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=kashyaputsav&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=6e40c9&currStreakLabel=c8b8ff&border_radius=12" />
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyaputsav&theme=tokyonight&hide_border=true&layout=donut&bg_color=0d1117&title_color=00f5ff&text_color=c8b8ff&border_radius=12&langs_count=8" />
-
-</div>
-
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                   TROPHIES                                  -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kashyaputsav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
-
-</div>
-
-<!-- ════════════════════════════════════════════════════════════ -->
 <!--                   ACTIVITY GRAPH                            -->
 <!-- ════════════════════════════════════════════════════════════ -->
 
