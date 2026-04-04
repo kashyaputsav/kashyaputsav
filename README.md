@@ -94,13 +94,15 @@ print(me.current_mission())
 <!--                   EDUCATION                                 -->
 <!-- ════════════════════════════════════════════════════════════ -->
 
+---
+
 ## 🎓 Education
 
 <div align="center">
 
 | 🏫 Institution | 📚 Qualification | 📅 Year |
 |:---:|:---:|:---:|:---:|
-| **Lovely Professional University (LPU), Punjab** | B.Tech – Computer Science & Engineering | 2020 – 2024 |
+| **Lovely Professional University (LPU), Punjab** | B.Tech – Computer Science & Engineering | 2020 – 2024 | 
 
 </div>
 
