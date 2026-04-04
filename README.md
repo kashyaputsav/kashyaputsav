@@ -98,7 +98,7 @@ print(me.current_mission())
 
 <div align="center">
 
-| 🏫 Institution | 📚 Qualification | 📅 Year | 🎯 Score |
+| 🏫 Institution | 📚 Qualification | 📅 Year |
 |:---:|:---:|:---:|:---:|
 | **Lovely Professional University (LPU), Punjab** | B.Tech – Computer Science & Engineering | 2020 – 2024 |
 
