@@ -42,59 +42,41 @@
 <!--                     ABOUT ME SECTION                        -->
 <!-- ════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+---
 
-## `>_ whoami`
+<!-- About Me Section -->
+<img align="right" alt="AI Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## 🧠 About Me
 
 ```python
-#!/usr/bin/env python3
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#   UTSAV KASHYAP  |  ML ENGINEER & DATA SCIENTIST
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 class UtsavKashyap:
-    name       = "Utsav Kashyap"
-    title      = "Data Scientist & ML Engineer"
-    location   = "India 🇮🇳"
-    education  = "B.Tech CSE — LPU, Punjab (2020–2024)"
-    contact    = "kashyap.utsav2001@gmail.com"
+    def __init__(self):
+        self.name       = "Utsav Kashyap"
+        self.role       = "Data Scientist & ML Engineer"
+        self.education  = "B.Tech CSE @ LPU, Punjab"
+        self.phone      = "+91-9546669862"
+        self.focus      = ["Machine Learning", "NLP", "Deep Learning",
+                           "Computer Vision", "AI Systems"]
+        self.tools      = ["Python", "TensorFlow", "PyTorch", "Keras",
+                           "Scikit-Learn", "OpenCV", "NLTK"]
+        self.databases  = ["MySQL", "MongoDB", "SQLite"]
+        self.cloud      = ["AWS", "Render"]
 
-    expertise  = {
-        "ML/AI"        : ["XGBoost", "Random Forest", "SMOTE", "Optuna", "SHAP"],
-        "Deep Learning": ["BiLSTM", "TensorFlow", "PyTorch", "Keras", "CNNs"],
-        "NLP"          : ["TF-IDF", "NLTK", "Transformers", "Text Classification"],
-        "CV"           : ["OpenCV", "Image Processing", "Feature Extraction"],
-        "MLOps"        : ["FastAPI", "Flask", "MLflow", "AWS", "Docker-ready"],
-        "Data"         : ["Pandas", "NumPy", "Plotly", "Seaborn", "SQL", "MongoDB"],
-    }
+    def current_mission(self):
+        return "Turning data into measurable business impact 🚀"
 
-    achievements = [
-        "93% Precision on Fraud Detection (XGBoost + SMOTE)",
-        "465k+ Reviews Classified with Stacked BiLSTM",
-        "7k Transactions Auto-Categorized (FinTech Grade)",
-        "Real-Time Inference APIs — Production Ready",
-    ]
-
-    def mission(self) -> str:
-        return "⚡ Turning raw data into measurable business impact"
-
-print(UtsavKashyap().mission())
-# OUTPUT: ⚡ Turning raw data into measurable business impact
+me = UtsavKashyap()
+print(me.current_mission())
 ```
 
-- 🔬 Building **end-to-end ML pipelines** — from raw data to deployed APIs
-- 🧠 Deep expertise in **NLP, Computer Vision & Fraud Detection systems**
-- 🚀 Shipped **real-time inference services** using FastAPI & Flask
-- 🏆 Certified via **Coursera** (NLP, Reinforcement Learning, Recommenders)
-- 📞 **+91-9546669862** &nbsp;|&nbsp; 📧 **kashyap.utsav2001@gmail.com**
+- 🔬 Specializing in **end-to-end ML pipelines** and **scalable AI model deployment**
+- 🌱 Passionate about **NLP, Computer Vision & Deep Learning**
+- 📫 Reach me: **kashyap.utsav2001@gmail.com** | **+91-9546669862**
+- 🏆 Certified on **Coursera (NLP, Reinforcement Learning)** & **GeeksforGeeks**
+- ⚡ Fun fact: I build AI that recommends music 🎵 and solves Sudoku ♟️
 
 <br clear="right"/>
-
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                   METRICS BANNER                            -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ---
 
@@ -116,19 +98,60 @@ print(UtsavKashyap().mission())
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  🏛️  LOVELY PROFESSIONAL UNIVERSITY — Punjab, India                  │
-│      B.Tech, Computer Science & Engineering  │  2020 – 2024          │
-│      CGPA: 6.1 / 10.0                                                │
-├──────────────────────────────────────────────────────────────────────┤
-│  🏫  B.S.S. COLLEGE — Supaul, India                                  │
-│      BSEB Class XII (Science)                │  2019                 │
-│      Aggregate: 62.2%                                                │
-└──────────────────────────────────────────────────────────────────────┘
-```
+| 🏫 Institution | 📚 Qualification | 📅 Year | 🎯 Score |
+|:---:|:---:|:---:|:---:|
+| **Lovely Professional University (LPU), Punjab** | B.Tech – Computer Science & Engineering | 2020 – 2024 |
 
 </div>
+
+---
+
+## 🚀 Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🤖 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=numpy&logoColor=blue)
+
+### 📊 Data & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+
+### 🌐 Web & Deployment
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--                   TECH STACK                                -->
@@ -337,25 +360,24 @@ Stack       Python · Librosa · Scikit-Learn
 <!--                   CERTIFICATIONS                            -->
 <!-- ════════════════════════════════════════════════════════════ -->
 
+---
+
 ## 🏅 Certifications
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🤖  Unsupervised Learning · Recommenders · RL    COURSERA  Nov 2023 ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  🗣️  Natural Language Processing (NLP)            COURSERA  Apr 2023 ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  🧮  Data Structures & Algorithms (Self-Paced)    GFG       Aug 2022 ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  🏗️  Data Structures & Algorithms                 HITBULLSEYE Jan 2023║
-╠══════════════════════════════════════════════════════════════════════╣
-║  🔄  Building Digital Transformation Strategies   UPGRAD    May 2022 ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+| 🎖️ Certificate | 🏢 Platform | 📅 Date |
+|:---|:---:|:---:|
+| 🤖 Unsupervised Learning, Recommenders & Reinforcement Learning | Coursera | Nov 2023 |
+| 🗣️ Natural Language Processing | Coursera | Apr 2023 |
+| 🧮 Data Structures & Algorithms (Self-Paced) | GeeksforGeeks | Aug 2022 |
+| 🏗️ Data Structures & Algorithms | HitBullsEye | Jan 2023 |
+| 🔄 Building Digital Transformation Strategies | UpGrad | May 2022 |
 
 </div>
+
+---
+
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--                   SKILL PROFICIENCY                         -->
