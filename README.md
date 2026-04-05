@@ -102,22 +102,6 @@ Mission Status:
 🚀 Turning data → intelligence → impact
 ```
 
-## 🧠 NEURAL NETWORK VISUAL
-
-<div align="center">
-
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="50"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/ashutosh1919/master/assets/nn.gif" width="520" style="border-radius:14px;"/>
-
-<br/><br/>
-
-<i>⚡ Simulating deep learning intelligence in real-time</i>
-
-</div>
-
 ### ⚙️ CORE STACK
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,fastapi,mysql,mongodb,aws,git&theme=dark" />
@@ -148,22 +132,7 @@ Mission Status:
 
 </div>
 
----
 
-
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashyaputsav&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-
----
 
 <!-- GLOW FOOTER -->
 
