@@ -74,7 +74,7 @@
 [████████████████████] 100%
 
 User        : Utsav Kashyap
-Role        : Data Scientist | ML Engineer | AI Architect
+Role        : Data Scientist | ML Engineer | AI Engineer
 Location    : India 🇮🇳
 
 ----------------------------------------
@@ -104,9 +104,16 @@ Mission Status:
 
 ---
 
-### 🧬 NEURAL NETWORK VISUAL
 
-<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/demo.svg" />
+## 🧠 NEURAL NETWORK VISUAL
+
+## 🧠 NEURAL NETWORK VISUAL
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500"/>
+
+</div>
 
 ---
 
