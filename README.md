@@ -1,78 +1,68 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                 🚀 ULTRA PREMIUM HERO HEADER                -->
+<!--               MINIMAL PREMIUM HERO (APPLE × TESLA)        -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- TOP GLOW BAR -->
+<!-- CLEAN TOP LINE -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:00f5ff,50:6e40c9,100:0f0c29"/>
-
-<!-- MAIN HERO -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f0c29,60:302b63,100:24243e&height=320&section=header&text=UTSAV%20KASHYAP&fontSize=78&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=⚡%20AI%20Engineer%20%20•%20%20ML%20Architect%20%20•%20%20Data%20Scientist%20⚡&descAlignY=60&descSize=20&descColor=c8b8ff&stroke=00f5ff&strokeWidth=1.5" />
-
-<!-- SUB GLOW -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f0c29,50:6e40c9,100:00f5ff"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                 ⚡ DYNAMIC AI TAGLINES                      -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=🧠+Building+Production-Grade+AI+Systems;⚡+93%25+Precision+Fraud+Detection+%E2%80%94+Deployed;💬+NLP+%7C+465K%2B+Reviews+Processed;🚀+FastAPI+%7C+Real-Time+Inference+Pipelines;🌐+XGBoost+%7C+BiLSTM+%7C+Deep+Learning;💡+Turning+Raw+Data+into+Business+Impact" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                 🔗 SOCIAL + IMPACT BAR                     -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,100:30363d"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0d1117)](https://www.linkedin.com/in/utsav-kashyap-581550236/)
-[![Gmail](https://img.shields.io/badge/Gmail-Let's%20Connect-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=0d1117)](mailto:kashyap.utsav2001@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white\&labelColor=0d1117)](https://www.kaggle.com/utsavkashyap2001)
-[![LeetCode](https://img.shields.io/badge/LeetCode-DSA-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white\&labelColor=0d1117)](https://leetcode.com/u/kashyaputsav/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=white\&labelColor=0d1117)](https://www.hackerrank.com/profile/kashyap_utsav201)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-ffffff?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=0d1117)](https://github.com/kashyaputsav)
+<!-- NAME -->
+
+<h1 style="font-size:48px; font-weight:700; margin-bottom:6px;">
+UTSAV KASHYAP
+</h1>
+
+<!-- ROLE -->
+
+<p style="font-size:18px; color:#8b949e; margin-top:0;">
+AI Engineer • Machine Learning • Data Science
+</p>
+
+<br/>
+
+<!-- SUBTLE TAGLINE -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Building+scalable+AI+systems;Turning+data+into+intelligence;Designing+real-world+ML+impact" />
 
 <br/><br/>
 
-<!-- LIVE STATS BAR -->
+<!-- SOCIAL (CLEAN BUTTONS) -->
 
-<img src="https://img.shields.io/github/followers/kashyaputsav?label=⭐+Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117" />
-<img src="https://komarev.com/ghpvc/?username=kashyaputsav&label=👁️+Profile+Views&color=6e40c9&style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Projects-6%2B-00d4ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Experience-ML%20%7C%20NLP%20%7C%20DL-c8b8ff?style=for-the-badge&labelColor=0d1117" />
+<a href="https://www.linkedin.com/in/utsav-kashyap-581550236/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:kashyap.utsav2001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/kashyaputsav">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/kashyaputsav/">
+  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- MINIMAL STATS -->
+
+<p style="font-size:14px; color:#6e7681;">
+6+ AI Projects • 93% ML Precision • NLP @ Scale (465k+ data)
+</p>
+
+<br/>
+
+<!-- BOTTOM LINE -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:30363d,100:0d1117"/>
 
 </div>
 
----
-
-<!-- DIVIDER -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00f5ff,50:6e40c9,100:0f0c29"/>
-
-</div>
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
