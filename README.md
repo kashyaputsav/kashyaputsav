@@ -218,11 +218,12 @@ AI • ML • Systems
 </div>
 
 ---
+
 <!-- ════════════════════════════════════════════════════════════ -->
-<!--                   Tech Stack                                 -->
+<!--                   TECH STACK                                -->
 <!-- ════════════════════════════════════════════════════════════ -->
 
-
+## ⚙️ Tech Stack
 <div align="center">
 
 ### 💻 Languages
@@ -264,9 +265,7 @@ AI • ML • Systems
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-
-
-
+</div>
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--                   FEATURED PROJECTS                         -->
