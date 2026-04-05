@@ -152,20 +152,72 @@ Mission Status:
 
 ---
 
----
 
 ## 🎓 Education
 
 <div align="center">
 
-| 🏫 Institution | 📚 Qualification | 📅 Year | 🎯 Score |
-|:---:|:---:|:---:|:---:|
-| **Lovely Professional University (LPU), Punjab** | B.Tech – Computer Science & Engineering | 2020 – 2024 |
+<!-- Animated Heading -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Academic+Background;Engineering+Foundation;Computer+Science+Journey" />
+
+<br/><br/>
+
+<!-- Glass Card Style -->
+<div style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); 
+            padding: 20px; 
+            border-radius: 16px; 
+            width: 85%;
+            box-shadow: 0 0 20px rgba(0,245,255,0.2);">
+
+<table>
+
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/48/university.png"/><br/>
+<b>Institution</b><br/>
+Lovely Professional University
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/48/graduation-cap.png"/><br/>
+<b>Degree</b><br/>
+B.Tech CSE
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/48/calendar.png"/><br/>
+<b>Duration</b><br/>
+2020 – 2024
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/48/combo-chart.png"/><br/>
+<b>Focus</b><br/>
+AI • ML • Systems
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+<!-- Subtle Animation Footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:6e40c9&height=2&section=header" />
 
 </div>
 
 ---
-
 ## 🚀 Tech Stack & Skills
 
 <div align="center">
