@@ -50,13 +50,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=🧠+Booting+Intelligent+System...;⚡+Loading+ML+Pipelines...;🚀+Deploying+AI+Models...;💡+System+Ready+%E2%9C%94" />
-
-</div>
 
 ---
 
