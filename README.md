@@ -54,12 +54,6 @@
 
 <div align="center">
 
-</div>
-
----
-
-<div align="center">
-
 <table>
 <tr>
 <td width="55%" valign="top">
