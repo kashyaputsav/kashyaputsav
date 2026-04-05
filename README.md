@@ -92,7 +92,7 @@ Active Processes:
 
 → Real-Time Fraud Detection System
 → NLP Pipeline (465k+ reviews)
-→ FinTech Classification Engine
+→ FinTech Classification Engineer
 → ML Deployment APIs
 
 ----------------------------------------
@@ -102,20 +102,13 @@ Mission Status:
 🚀 Turning data → intelligence → impact
 ```
 
----
-
-
-## 🧠 NEURAL NETWORK VISUAL
-
 ## 🧠 NEURAL NETWORK VISUAL
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500"/>
+<img src="https://svgshare.com/i/13kA.svg" width="500"/>
 
 </div>
-
----
 
 ### ⚙️ CORE STACK
 
@@ -149,13 +142,7 @@ Mission Status:
 
 ---
 
-## ⚡ LIVE AI DASHBOARD
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=800&color=C8B8FF&center=true&vCenter=true&width=600&lines=Streaming+Live+Model+Metrics...;Analyzing+Performance...;Optimizing+Predictions..." />
-
-</div>
 
 <br/>
 
