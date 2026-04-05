@@ -5,16 +5,26 @@
 <!-- ┌─────────────────────── HERO HEADER ───────────────────────┐ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f0c29,60:302b63,100:24243e&height=300&section=header&text=UTSAV%20KASHYAP&fontSize=72&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=⚡%20Data%20Scientist%20%20•%20%20ML%20Engineer%20%20•%20%20AI%20Architect%20⚡&descAlignY=62&descSize=18&descColor=c8b8ff&stroke=6e40c9&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,25:0d1b3e,50:1a0533,75:0d2137,100:020817&height=320&section=header&text=UTSAV%20KASHYAP&fontSize=76&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=⚡%20Data%20Scientist%20%20•%20%20ML%20Engineer%20%20•%20%20AI%20Architect%20⚡&descAlignY=60&descSize=20&descColor=a78bfa&stroke=7c3aed&strokeWidth=3" />
 
 </div>
 
 <!-- ┌─────────────────── ANIMATED TYPING LINES ─────────────────┐ -->
 <div align="center">
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=%F0%9F%A7%A0+Building+Production-Grade+ML+Systems;%F0%9F%94%AE+93%25+Precision+Fraud+Detection+%E2%80%94+Shipped;%F0%9F%92%AC+NLP+%7C+465k+Reviews+Classified+%E2%80%94+Done;%F0%9F%9A%80+FastAPI+%7C+Flask+%7C+Real-Time+Inference;%F0%9F%8C%90+XGBoost+%7C+BiLSTM+%7C+Random+Forest+%7C+CV;%E2%9A%A1+Turning+Raw+Data+into+Business+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=720&height=65&lines=%F0%9F%A7%A0+Building+Production-Grade+ML+Systems;%F0%9F%94%AE+93%25+Precision+Fraud+Detection+—+Shipped;%F0%9F%92%AC+NLP+%7C+465k+Reviews+Classified+—+Done;%F0%9F%9A%80+FastAPI+%7C+Flask+%7C+Real-Time+Inference;%F0%9F%8C%90+XGBoost+%7C+BiLSTM+%7C+Random+Forest+%7C+CV;%E2%9A%A1+Turning+Raw+Data+into+Business+Impact" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<!-- ── ROLE PILLS ── -->
+![](https://img.shields.io/badge/🧠_Machine_Learning-Expert-00f5ff?style=for-the-badge&labelColor=020817)
+![](https://img.shields.io/badge/🔮_Deep_Learning-Advanced-7c3aed?style=for-the-badge&labelColor=020817)
+![](https://img.shields.io/badge/⚡_Real--Time_AI-Production-f59e0b?style=for-the-badge&labelColor=020817)
+
+<br/>
 
 </div>
 
@@ -31,24 +41,26 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kashyaputsav&label=👁️+PROFILE+VIEWS&color=6e40c9&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/kashyaputsav?label=⭐+FOLLOWERS&style=for-the-badge&color=00d4ff&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=kashyaputsav&label=👁️+PROFILE+VIEWS&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/kashyaputsav?label=⭐+FOLLOWERS&style=for-the-badge&color=00f5ff&labelColor=0d1117)
 
 </div>
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME SECTION                        -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="AI Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                     01 · ABOUT ME                           -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-## 🧠 About Me
+<div align="left">
 
+## `01` &nbsp;🧠 About Me
+
+</div>
+
+<img align="right" alt="AI Neural Network GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:8px;border:1px solid #7c3aed44;box-shadow:0 0 40px #7c3aed22" />
 ```python
 class UtsavKashyap:
     def __init__(self):
@@ -63,32 +75,97 @@ class UtsavKashyap:
         self.databases  = ["MySQL", "MongoDB", "SQLite"]
         self.cloud      = ["AWS", "Render"]
 
-    def current_mission(self):
+    def current_mission(self) -> str:
         return "Turning data into measurable business impact 🚀"
 
 me = UtsavKashyap()
 print(me.current_mission())
+# OUTPUT ›  Turning data into measurable business impact 🚀
 ```
 
-- 🔬 Specializing in **end-to-end ML pipelines** and **scalable AI model deployment**
-- 🌱 Passionate about **NLP, Computer Vision & Deep Learning**
-- 📫 Reach me: **kashyap.utsav2001@gmail.com** | **+91-9546669862**
-- 🏆 Certified on **Coursera (NLP, Reinforcement Learning)** & **GeeksforGeeks**
-- ⚡ Fun fact: I build AI that recommends music 🎵 and solves Sudoku ♟️
+<br/>
+
+> 🔬 &nbsp;Specializing in **end-to-end ML pipelines** and **scalable AI model deployment**
+>
+> 🌱 &nbsp;Passionate about **NLP, Computer Vision & Deep Learning**
+>
+> 📫 &nbsp;Reach me: **kashyap.utsav2001@gmail.com** &nbsp;|&nbsp; **+91-9546669862**
+>
+> 🏆 &nbsp;Certified on **Coursera (NLP, Reinforcement Learning)** & **GeeksforGeeks**
+>
+> ⚡ &nbsp;Fun fact: I build AI that recommends music 🎵 and solves Sudoku ♟️
 
 <br clear="right"/>
 
 ---
 
-### ⚡ Impact At a Glance
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   02 · IMPACT AT A GLANCE                   -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-| 🎯 93% Precision | 📊 465k+ Reviews | 💳 7k Transactions | 🚀 6 AI Projects | 📜 5 Certifications |
-|:---:|:---:|:---:|:---:|:---:|
-| **Fraud Detection** | **BiLSTM NLP** | **FinTech Classifier** | **Deployed & Shipped** | **Coursera + GFG** |
+<div align="left">
+
+## `02` &nbsp;⚡ Impact At a Glance
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/93%25-PRECISION-00f5ff?style=for-the-badge&labelColor=020817" /><br/>
+<sub><sup>🎯 Fraud Detection</sup></sub>
+</td>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/465k%2B-REVIEWS-a78bfa?style=for-the-badge&labelColor=020817" /><br/>
+<sub><sup>📊 BiLSTM NLP Classifier</sup></sub>
+</td>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/7k-TRANSACTIONS-f59e0b?style=for-the-badge&labelColor=020817" /><br/>
+<sub><sup>💳 FinTech ML Pipeline</sup></sub>
+</td>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/6-AI%20PROJECTS-10b981?style=for-the-badge&labelColor=020817" /><br/>
+<sub><sup>🚀 Deployed & Shipped</sup></sub>
+</td>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/5-CERTIFICATIONS-f472b6?style=for-the-badge&labelColor=020817" /><br/>
+<sub><sup>📜 Coursera + GFG</sup></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   03 · EDUCATION                            -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+<div align="left">
+
+## `03` &nbsp;🎓 Education
+
 </div>
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td>
+
+<h3>🏛️ Lovely Professional University (LPU)</h3>
+
+**📍 Punjab, India &nbsp;|&nbsp; 🗓️ 2020 – 2024**
+
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7c3aed?style=for-the-badge&labelColor=020817)
+![Status](https://img.shields.io/badge/Status-Graduated-10b981?style=for-the-badge&labelColor=020817)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-00f5ff?style=for-the-badge&labelColor=020817)
+
+</td>
+<td align="right" width="120">
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--                   EDUCATION                                 -->
