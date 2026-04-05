@@ -1,69 +1,42 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--               MINIMAL PREMIUM HERO (APPLE × TESLA)        -->
-
+<!--              UTSAV KASHYAP — GITHUB PROFILE README          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+<!-- ┌─────────────────────── HERO HEADER ───────────────────────┐ -->
 <div align="center">
 
-<!-- CLEAN TOP LINE -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,100:30363d"/>
-
-<br/>
-
-<!-- NAME -->
-
-<h1 style="font-size:48px; font-weight:700; margin-bottom:6px;">
-UTSAV KASHYAP
-</h1>
-
-<!-- ROLE -->
-
-<p style="font-size:18px; color:#8b949e; margin-top:0;">
-AI Engineer • Machine Learning • Data Science
-</p>
-
-<br/>
-
-<!-- SUBTLE TAGLINE -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Building+scalable+AI+systems;Turning+data+into+intelligence;Designing+real-world+ML+impact" />
-
-<br/><br/>
-
-<!-- SOCIAL (CLEAN BUTTONS) -->
-
-<a href="https://www.linkedin.com/in/utsav-kashyap-581550236/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:kashyap.utsav2001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/kashyaputsav">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/kashyaputsav/">
-  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<!-- MINIMAL STATS -->
-
-<p style="font-size:14px; color:#6e7681;">
-6+ AI Projects • 93% ML Precision • NLP @ Scale (465k+ data)
-</p>
-
-<br/>
-
-<!-- BOTTOM LINE -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:30363d,100:0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f0c29,60:302b63,100:24243e&height=300&section=header&text=UTSAV%20KASHYAP&fontSize=72&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=⚡%20Data%20Scientist%20%20•%20%20ML%20Engineer%20%20•%20%20AI%20Architect%20⚡&descAlignY=62&descSize=18&descColor=c8b8ff&stroke=6e40c9&strokeWidth=2" />
 
 </div>
 
+<!-- ┌─────────────────── ANIMATED TYPING LINES ─────────────────┐ -->
+<div align="center">
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=%F0%9F%A7%A0+Building+Production-Grade+ML+Systems;%F0%9F%94%AE+93%25+Precision+Fraud+Detection+%E2%80%94+Shipped;%F0%9F%92%AC+NLP+%7C+465k+Reviews+Classified+%E2%80%94+Done;%F0%9F%9A%80+FastAPI+%7C+Flask+%7C+Real-Time+Inference;%F0%9F%8C%90+XGBoost+%7C+BiLSTM+%7C+Random+Forest+%7C+CV;%E2%9A%A1+Turning+Raw+Data+into+Business+Impact" alt="Typing SVG" />
+</a>
+
+</div>
+
+<!-- ┌──────────────────── SOCIAL BADGES ROW ────────────────────┐ -->
+<div align="center">
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/utsav-kashyap-581550236/)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:kashyap.utsav2001@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117)](https://www.kaggle.com/utsavkashyap2001)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/kashyaputsav/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117)](https://www.hackerrank.com/profile/kashyap_utsav201)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/kashyaputsav)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kashyaputsav&label=👁️+PROFILE+VIEWS&color=6e40c9&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/kashyaputsav?label=⭐+FOLLOWERS&style=for-the-badge&color=00d4ff&labelColor=0d1117)
+
+</div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
