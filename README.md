@@ -261,6 +261,87 @@ AI • ML • Systems
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
+
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=TECH+STACK+INITIALIZED;AI+%7C+ML+%7C+SYSTEMS;PRODUCTION+READY+TOOLS" />
+
+<br/><br/>
+
+<!-- Core Languages -->
+### 🐍 Core Languages
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<!-- AI / ML -->
+### 🤖 AI · ML · Deep Learning
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv,sklearn&theme=dark)](https://skillicons.dev)
+
+![XGBoost](https://img.shields.io/badge/XGBoost-Expert-003366?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-2E7D32?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-Gradient-FFCC00?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-FF6B6B?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-Hyperopt-3B82F6?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2?style=for-the-badge)
+
+<br/>
+
+<!-- NLP -->
+### 🧠 NLP & LLM
+[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+
+![NLTK](https://img.shields.io/badge/NLTK-NLP-4B5563?style=for-the-badge)
+![SpaCy](https://img.shields.io/badge/SpaCy-NLP-09A3D5?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM-412991?style=for-the-badge)
+
+<br/>
+
+<!-- Data -->
+### 📊 Data · Analytics · Visualization
+[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
+
+<br/>
+
+<!-- Web -->
+### 🌐 APIs · Backend · Deployment
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&theme=dark)](https://skillicons.dev)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge)
+
+<br/>
+
+<!-- Databases -->
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<!-- Cloud -->
+### ☁️ Cloud · DevOps · MLOps
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,git,github,linux&theme=dark)](https://skillicons.dev)
+
+![Render](https://img.shields.io/badge/Render-Deploy-46E3B7?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-FF6F00?style=for-the-badge)
+
+<br/>
+
+<!-- Footer Glow -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:6e40c9&height=2&section=header" />
+
+</div>
 </div>
 
 ---
