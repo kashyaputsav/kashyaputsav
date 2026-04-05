@@ -140,51 +140,7 @@ Mission Status:
 
 </div>
 
----
 
-## ⚡ LIVE AI DASHBOARD
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=800&color=C8B8FF&center=true&vCenter=true&width=600&lines=Streaming+Live+Model+Metrics...;Analyzing+Performance...;Optimizing+Predictions..." />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashyaputsav&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-|    🧠 System    |   📊 Metric  | ⚡ Performance |  🚀 Status  |
-| :-------------: | :----------: | :-----------: | :---------: |
-| Fraud Detection |   Precision  |    **93%**    |   🟢 Live   |
-|    NLP Engine   |    Dataset   |   **465K+**   | 🟢 Scalable |
-|    FinTech AI   | Transactions |    **7K+**    |  🟢 Active  |
-|    ML Systems   |   Deployed   |     **6+**    |  🚀 Growing |
-|  Certifications |   Completed  |     **5+**    | 📜 Verified |
-
-</div>
-
----
-
-<!-- GLOW FOOTER -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f5ff,50:6e40c9,100:0f0c29" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer"/>
-
-</div>
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--                   EDUCATION                                 -->
