@@ -114,7 +114,11 @@ Mission Status:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"/>
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="50"/>
+
+<br/>
+
+<i>⚡ Live GitHub Activity Intelligence</i>
 
 </div>
 
