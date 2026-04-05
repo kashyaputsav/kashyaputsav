@@ -63,14 +63,11 @@
 ```bash id="g3ncore"
 > initializing utsav.ai ...
 
-[████████████████████] 100%
-
 User        : Utsav Kashyap
 Role        : Data Scientist | ML Engineer | AI Engineer
 Location    : India 🇮🇳
 
 ----------------------------------------
-
 Core Modules Loaded:
 
 ✔ Machine Learning
@@ -79,16 +76,6 @@ Core Modules Loaded:
 ✔ Computer Vision
 
 ----------------------------------------
-
-Active Processes:
-
-→ Real-Time Fraud Detection System
-→ NLP Pipeline (465k+ reviews)
-→ FinTech Classification Engineer
-→ ML Deployment APIs
-
-----------------------------------------
-
 Mission Status:
 
 🚀 Turning data → intelligence → impact
