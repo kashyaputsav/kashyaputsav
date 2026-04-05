@@ -106,7 +106,15 @@ Mission Status:
 
 <div align="center">
 
-<img src="https://svgshare.com/i/13kA.svg" width="500"/>
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="50"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/ashutosh1919/master/assets/nn.gif" width="520" style="border-radius:14px;"/>
+
+<br/><br/>
+
+<i>⚡ Simulating deep learning intelligence in real-time</i>
 
 </div>
 
