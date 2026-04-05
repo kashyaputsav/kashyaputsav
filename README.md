@@ -44,11 +44,21 @@
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="AI Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+
+<!-- Animated Header -->
+<a href="https://github.com/yourusername">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5a0,100:00d9f5&height=200&section=header&text=Utsav%20Kashyap&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20ML%20Engineer&descAlignY=58&descSize=18" width="100%" />
+</a>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Turning+data+into+measurable+business+impact+%F0%9F%9A%80;ML+%7C+NLP+%7C+Deep+Learning+%7C+Computer+Vision" alt="Typing SVG" />
+
+</div>
+
+---
 
 ## 🧠 About Me
-
 ```python
 class UtsavKashyap:
     def __init__(self):
@@ -70,13 +80,19 @@ me = UtsavKashyap()
 print(me.current_mission())
 ```
 
-- 🔬 Specializing in **end-to-end ML pipelines** and **scalable AI model deployment**
-- 🌱 Passionate about **NLP, Computer Vision & Deep Learning**
-- 📫 Reach me: **kashyap.utsav2001@gmail.com** | **+91-9546669862**
-- 🏆 Certified on **Coursera (NLP, Reinforcement Learning)** & **GeeksforGeeks**
-- ⚡ Fun fact: I build AI that recommends music 🎵 and solves Sudoku ♟️
+> **OUTPUT ›** Turning data into measurable business impact 🚀
 
-<br clear="right"/>
+---
+
+## ⚡ Impact At a Glance
+
+<div align="center">
+
+| 🎯 93% Precision | 📊 465k+ Reviews | 💳 7k Transactions | 🚀 6 AI Projects | 📜 5 Certifications |
+|:---:|:---:|:---:|:---:|:---:|
+| **Fraud Detection** | **BiLSTM NLP** | **FinTech Classifier** | **Deployed & Shipped** | **Coursera + GFG** |
+
+</div>
 
 ---
 
