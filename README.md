@@ -66,44 +66,41 @@
 <tr>
 <td width="55%" valign="top">
 
-## 🧠 About Me
+### 🖥️ SYSTEM TERMINAL
 
-```python
-class UtsavKashyap:
-    def __init__(self):
-        self.name       = "Utsav Kashyap"
-        self.role       = "Data Scientist & ML Engineer"
-        self.education  = "B.Tech CSE @ LPU, Punjab"
-        self.phone      = "+91-9546669862"
-        self.focus      = ["Machine Learning", "NLP", "Deep Learning",
-                           "Computer Vision", "AI Systems"]
-        self.tools      = ["Python", "TensorFlow", "PyTorch", "Keras",
-                           "Scikit-Learn", "OpenCV", "NLTK"]
-        self.databases  = ["MySQL", "MongoDB", "SQLite"]
-        self.cloud      = ["AWS", "Render"]
+```bash id="g3ncore"
+> initializing utsav.ai ...
 
-    def current_mission(self):
-        return "Turning data into measurable business impact 🚀"
+[████████████████████] 100%
 
-me = UtsavKashyap()
-print(me.current_mission())
+User        : Utsav Kashyap
+Role        : Data Scientist | ML Engineer | AI Architect
+Location    : India 🇮🇳
+
+----------------------------------------
+
+Core Modules Loaded:
+
+✔ Machine Learning
+✔ NLP Systems
+✔ Deep Learning
+✔ Computer Vision
+
+----------------------------------------
+
+Active Processes:
+
+→ Real-Time Fraud Detection System
+→ NLP Pipeline (465k+ reviews)
+→ FinTech Classification Engine
+→ ML Deployment APIs
+
+----------------------------------------
+
+Mission Status:
+
+🚀 Turning data → intelligence → impact
 ```
-
-- 🔬 Specializing in **end-to-end ML pipelines** and **scalable AI model deployment**
-- 🌱 Passionate about **NLP, Computer Vision & Deep Learning**
-- 📫 Reach me: **kashyap.utsav2001@gmail.com** | **+91-9546669862**
-- 🏆 Certified on **Coursera (NLP, Reinforcement Learning)** & **GeeksforGeeks**
-- ⚡ Fun fact: I build AI that recommends music 🎵 and solves Sudoku ♟️
-
-<br clear="right"/>
-
----
-
-### ⚡ Impact At a Glance
-
-| 🎯 93% Precision | 📊 465k+ Reviews | 💳 7k Transactions | 🚀 6 AI Projects | 📜 5 Certifications |
-|:---:|:---:|:---:|:---:|:---:|
-| **Fraud Detection** | **BiLSTM NLP** | **FinTech Classifier** | **Deployed & Shipped** | **Coursera + GFG** |
 
 ---
 
@@ -140,6 +137,41 @@ print(me.current_mission())
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## ⚡ LIVE AI DASHBOARD
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=800&color=C8B8FF&center=true&vCenter=true&width=600&lines=Streaming+Live+Model+Metrics...;Analyzing+Performance...;Optimizing+Predictions..." />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashyaputsav&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+
+---
+
+<!-- GLOW FOOTER -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f5ff,50:6e40c9,100:0f0c29" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer"/>
 
 </div>
 
