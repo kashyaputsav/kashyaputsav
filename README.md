@@ -1,49 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              UTSAV KASHYAP — GITHUB PROFILE README          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!-- ┌─────────────────────── HERO HEADER ───────────────────────┐ -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0f0c29,60:302b63,100:24243e&height=300&section=header&text=UTSAV%20KASHYAP&fontSize=72&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=⚡%20Data%20Scientist%20%20•%20%20ML%20Engineer%20%20•%20%20AI%20Architect%20⚡&descAlignY=62&descSize=18&descColor=c8b8ff&stroke=6e40c9&strokeWidth=2" />
-
-</div>
-
-<!-- ┌─────────────────── ANIMATED TYPING LINES ─────────────────┐ -->
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=%F0%9F%A7%A0+Building+Production-Grade+ML+Systems;%F0%9F%94%AE+93%25+Precision+Fraud+Detection+%E2%80%94+Shipped;%F0%9F%92%AC+NLP+%7C+465k+Reviews+Classified+%E2%80%94+Done;%F0%9F%9A%80+FastAPI+%7C+Flask+%7C+Real-Time+Inference;%F0%9F%8C%90+XGBoost+%7C+BiLSTM+%7C+Random+Forest+%7C+CV;%E2%9A%A1+Turning+Raw+Data+into+Business+Impact" alt="Typing SVG" />
-</a>
-
-</div>
-
-<!-- ┌──────────────────── SOCIAL BADGES ROW ────────────────────┐ -->
-<div align="center">
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/utsav-kashyap-581550236/)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:kashyap.utsav2001@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117)](https://www.kaggle.com/utsavkashyap2001)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/kashyaputsav/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117)](https://www.hackerrank.com/profile/kashyap_utsav201)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/kashyaputsav)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kashyaputsav&label=👁️+PROFILE+VIEWS&color=6e40c9&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/kashyaputsav?label=⭐+FOLLOWERS&style=for-the-badge&color=00d4ff&labelColor=0d1117)
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME SECTION                        -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
----
-
 <div align="center">
 
 <!-- Animated Header -->
@@ -95,6 +49,37 @@ print(me.current_mission())
 </div>
 
 ---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-00f5a0?style=for-the-badge&logo=python&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00d9f5?style=for-the-badge&logo=tensorflow&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-a855f7?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-00f5a0?style=for-the-badge&logo=keras&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-00d9f5?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-a855f7?style=for-the-badge&logo=opencv&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ffa657?style=for-the-badge&logo=amazonaws&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00f5a0?style=for-the-badge&logo=mysql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-00d9f5?style=for-the-badge&logo=mongodb&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=060a0f&title_color=00f5a0&icon_color=00d9f5&text_color=e6edf3" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=true&background=060a0f&ring=00f5a0&fire=00d9f5&currStreakLabel=00f5a0" height="160" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9f5,100:00f5a0&height=100&section=footer" width="100%" />
+</div>
 
 ### ⚡ Impact At a Glance
 
